@@ -6,6 +6,4 @@
 ### Jadawal Pertandingan
 ### Tambah & Hapus Tim / Pertandingan ke dalam favorite menu
 
-## The Best Participants GDK 2018
-
-
+##
